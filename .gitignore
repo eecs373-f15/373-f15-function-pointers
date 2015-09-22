@@ -1,0 +1,10 @@
+*.swp
+*.swo
+main
+main.o
+main.out
+reverse
+reverse.out
+reverse_sort.o
+sort.o
+
